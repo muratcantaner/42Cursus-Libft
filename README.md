@@ -72,10 +72,10 @@
 * [`ft_strtrim`](/ft_strtrim.c)			- trim beginning and end of string with the specified characters.
 * [`ft_strjoin`](/ft_strjoin.c)			- concatenate two strings into a new string (with malloc).
 * [`ft_split`](/ft_split.c)				- split string, with specified character as delimiter, into an array of strings.
-* * [`ft_strmapi`](/ft_strmapi.c)			- modify string with specified function.
+* [`ft_strmapi`](/ft_strmapi.c)			- modify string with specified function.
 * [`ft_strmapi`](/ft_strmapi.c)			- create new string from modifying string with specified function.
 
-### Linked list functions
+### (Bonus) Linked List functions
 
 * [`ft_lstnew`](/ft_lstnew.c)				- create new list.
 * [`ft_lstsize`](/ft_lstsize.c)			- count elements of a list.
@@ -87,7 +87,7 @@
 * [`ft_lstiter`](/ft_lstiter.c)			- apply function to content of all list's elements.
 * [`ft_lstmap`](/ft_lstmap.c)				- apply function to content of all list's elements into new list.
 
-_Note: functions marked with * are bonus functions (not mandatory by the project's subject)._
+_Note: Bonus functions are not mandatory by the project's subject._
 
 ### Makefile ###
   [`Makefile`](/Makefile)
