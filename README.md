@@ -26,7 +26,7 @@
 
   [`libft.h`](/libft.h)
 
-### Functions from `<ctype.h>` library
+### Functions from `<ctype.h>` Library
 
 * [`ft_isascii`](/ft_isascii.c)			- test for ASCII character.
 * [`ft_isalnum`](/ft_isalnum.c)			- alphanumeric character test.
@@ -36,12 +36,12 @@
 * [`ft_tolower`](/ft_tolower.c)			- upper case to lower case letter conversion.
 * [`ft_toupper`](/ft_toupper.c)			- lower case to upper case letter conversion.
 
-### Functions from `<stdlib.h>` library
+### Functions from `<stdlib.h>` Library
 
 * [`ft_atoi`](/ft_atoi.c)		- convert ASCII string to integer.
 * [`ft_calloc`](/ft_calloc.c)	- memory allocation.
 
-### Functions from `<strings.h>` library
+### Functions from `<strings.h>` Library
 
 * [`ft_bzero`](/ft_bzero.c)		- write zeroes to a byte string.
 * [`ft_memset`](/ft_memset.c)		- write a byte to a byte string.
@@ -50,18 +50,18 @@
 * [`ft_memmove`](/ft_memmove.c)	- copy byte string.
 * [`ft_memcpy`](/ft_memcpy.c)		- copy memory area.
 
-### Functions from `<string.h>` library
+### Functions from `<string.h>` Library
 
 * [`ft_strlen`](/ft_strlen.c)				- find length of string.
 * * [`ft_strchr`](/ft_strchr.c)				- locate character in string (first occurrence).
 * [`ft_strrchr`](/ft_strrchr.c)			- locate character in string (last occurence).
 * [`ft_strnstr`](/ft_strnstr.c)			- locate a substring in a string (size-bounded).
-* [`ft_strncmp`](/ft_strncmp.c) *			- compare strings (size-bounded).
+* [`ft_strncmp`](/ft_strncmp.c)			- compare strings (size-bounded).
 * [`ft_strdup`](/ft_strdup.c)				- save a copy of a string (with malloc).
 * [`ft_strlcpy`](/ft_strlcpy.c)			- size-bounded string copying.
 * [`ft_strlcat`](/ft_strlcat.c)			- size-bounded string concatenation.
 
-### Non-standard functions
+### Non-Standard Functions
 
 * [`ft_putchar_fd`](/ft_putchar_fd.c)		- output a character to given file.
 * [`ft_putstr_fd`](/ft_putstr_fd.c)		- output string to given file.
@@ -75,7 +75,9 @@
 * [`ft_strmapi`](/ft_strmapi.c)			- modify string with specified function.
 * [`ft_strmapi`](/ft_strmapi.c)			- create new string from modifying string with specified function.
 
-### (Bonus) Linked List functions
+### BONUS ###
+
+### Linked List Functions 
 
 * [`ft_lstnew`](/ft_lstnew.c)				- create new list.
 * [`ft_lstsize`](/ft_lstsize.c)			- count elements of a list.
