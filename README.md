@@ -21,8 +21,10 @@
 | Unix Logic |
 
 <br>
+
 ### Header File ###
-[`libft.h`](/libft.h)
+
+  [`libft.h`](/libft.h)
 
 ### Functions from `<ctype.h>` library
 
@@ -88,4 +90,4 @@
 _Note: functions marked with * are bonus functions (not mandatory by the project's subject)._
 
 ### Makefile ###
-* [`Makefile`](/Makefile)
+  [`Makefile`](/Makefile)
