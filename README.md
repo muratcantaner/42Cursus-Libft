@@ -54,15 +54,9 @@
 * [`ft_strlen`](/ft_strlen.c)				- find length of string.
 * [`ft_strchr`](/ft_strchr.c)				- locate character in string (first occurrence).
 * [`ft_strrchr`](/ft_strrchr.c)			- locate character in string (last occurence).
-* [`ft_strstr`](/ft_strstr.c) *		- locate a substring in a string.
 * [`ft_strnstr`](/ft_strnstr.c)			- locate a substring in a string (size-bounded).
-* [`ft_strcmp`](/ft_strcmp.c) *		- compare strings.
 * [`ft_strncmp`](/ft_strncmp.c) *			- compare strings (size-bounded).
-* [`ft_strcpy`](/ft_strcpy.c) *		- copy strings.
-* [`ft_strncpy`](/ft_strncpy.c) *	- copy strings (size-bounded).
 * [`ft_strdup`](/ft_strdup.c)				- save a copy of a string (with malloc).
-* [`ft_strcat`](/ft_strcat.c) *		- concatenate strings (s2 into s1).
-* [`ft_strncat`](/ft_strncat.c) *	- concatenate strings (s2 into s1, size-bounded).
 * [`ft_strlcpy`](/ft_strlcpy.c)			- size-bounded string copying.
 * [`ft_strlcat`](/ft_strlcat.c)			- size-bounded string concatenation.
 
